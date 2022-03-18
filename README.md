@@ -46,3 +46,7 @@ or
     app:separatorState="spaceWithDash" />
 ```
 
+For card expiration:
+```kotlin
+binding.txtInputCardExpiration.addTextChangedListener(CreditCardExpiryTextWatcher(binding.txtInputCardExpiration))
+```
