@@ -1,0 +1,26 @@
+*.iml
+# Gradle generated files
+.gradle/
+.idea/
+
+/local.properties
+
+# User-specific configurations
+.idea/libraries/
+.idea/dictionaries/
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/.name
+.idea/compiler.xml
+.idea/copyright/profiles_settings.xml
+.idea/encodings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/scopes/scope_settings.xml
+.idea/vcs.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties

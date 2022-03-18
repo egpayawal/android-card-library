@@ -1,0 +1,3 @@
+rootProject.name = "CardLib"
+include ':app'
+include ':card-library'

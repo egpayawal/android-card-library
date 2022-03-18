@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_input_padding_top">10dp</dimen>
+    <dimen name="text_input_padding_bottom">20dp</dimen>
+    <dimen name="screen_margin">@dimen/_16sdp</dimen>
+</resources>

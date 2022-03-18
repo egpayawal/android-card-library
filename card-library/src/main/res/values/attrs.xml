@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CardTextInputEditText">
+        <attr name="displayCardIcon" format="boolean" />
+        <attr name="separatorState" format="enum">
+            <enum name="spaceSpan" value="0" />
+            <enum name="spaceWithDash" value="1" />
+        </attr>
+    </declare-styleable>
+</resources>
